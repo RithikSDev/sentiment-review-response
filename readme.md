@@ -16,6 +16,8 @@ This project is an **AI-powered web app** that analyzes customer reviews, detect
 
 ---
 
+![App Screenshot](senti.png)
+
 ## 🛠️ Tech Stack
 
 - **Python 3.9+**
